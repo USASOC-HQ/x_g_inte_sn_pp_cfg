@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>100</order>
+        <question display_value="What is the target SDLC stage for this instance?">7e1e65ea1b9f6410ec0320efe54bcbe5</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>erwinel_da</sys_created_by>
+        <sys_created_on>2021-04-06 19:12:45</sys_created_on>
+        <sys_id>298ea96e1b9f6410ec0320efe54bcb9d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Production</sys_name>
+        <sys_package display_value="USASOC ServiceNow Post-Provisioning Setup" source="x_g_inte_sn_pp_cfg">c1af99e61b5f6410ec0320efe54bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="USASOC ServiceNow Post-Provisioning Setup">c1af99e61b5f6410ec0320efe54bcb64</sys_scope>
+        <sys_update_name>question_choice_298ea96e1b9f6410ec0320efe54bcb9d</sys_update_name>
+        <sys_updated_by>erwinel_da</sys_updated_by>
+        <sys_updated_on>2021-04-06 19:12:45</sys_updated_on>
+        <text>Production</text>
+        <value>prod</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=298ea96e1b9f6410ec0320efe54bcb9d"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>298ea96e1b9f6410ec0320efe54bcb9d</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>erwinel_da</sys_created_by>
+        <sys_created_on>2021-04-06 19:12:45</sys_created_on>
+        <sys_id>459e296e1b9f6410ec0320efe54bcb8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>erwinel_da</sys_updated_by>
+        <sys_updated_on>2021-04-06 19:12:45</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>298ea96e1b9f6410ec0320efe54bcb9d</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>erwinel_da</sys_created_by>
+        <sys_created_on>2021-04-06 19:12:45</sys_created_on>
+        <sys_id>0d9e296e1b9f6410ec0320efe54bcb8a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>erwinel_da</sys_updated_by>
+        <sys_updated_on>2021-04-06 19:12:45</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
