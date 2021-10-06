@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="ServiceNow Post-Provisioning Setup">7acc25ea1b9f6410ec0320efe54bcb33</sc_cat_item>
+        <sc_category display_value="Additional IT Services or Requests">cb685969dbe24010683b300f7c9619df</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>erwinel_da</sys_created_by>
+        <sys_created_on>2021-04-06 19:06:48</sys_created_on>
+        <sys_id>393d6dea1b9f6410ec0320efe54bcb3c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Additional IT Services or Requests.Post-Provisioning Setup</sys_name>
+        <sys_package display_value="USASOC ServiceNow Post-Provisioning Setup" source="x_g_inte_sn_pp_cfg">c1af99e61b5f6410ec0320efe54bcb64</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="USASOC ServiceNow Post-Provisioning Setup">c1af99e61b5f6410ec0320efe54bcb64</sys_scope>
+        <sys_update_name>sc_cat_item_category_393d6dea1b9f6410ec0320efe54bcb3c</sys_update_name>
+        <sys_updated_by>erwinel_da</sys_updated_by>
+        <sys_updated_on>2021-04-06 19:06:48</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
